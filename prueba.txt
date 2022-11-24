@@ -1,4 +1,6 @@
 Cambios desde ssh
 Cambio entre medias para explicar como ver modificaciones de archivos
 Estamo modificando
+Probando Git Stash
+
 
